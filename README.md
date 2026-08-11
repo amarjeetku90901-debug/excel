@@ -6,11 +6,13 @@ The project transforms raw retail data into an interactive business dashboard us
 
 ---
 
-## 📊 Dashboard Preview
+## DATA SET Privew
 
-![UrbanCart Retail Analytics Dashboard](Dashboard_Preview.png)
+- <a href = "https://github.com/amarjeetku90901-debug/excel/blob/main/Urban%20Chart%20Project.xlsx">Dataset view</a>
 
 ---
+## DASHBOARD PREVIEW
+- Dashboard view <a href = "https://github.com/amarjeetku90901-debug/excel/blob/main/Screenshot%202026-08-10%20220035.png"> view</a>
 
 ## 🎯 Project Objective
 
